@@ -285,9 +285,10 @@ After the external injection, the system is balanced, and the white LED is turne
 Efficient energy management is crucial for modern industrial manufacturing plants, where multiple renewable energy sources power various departments such as machining, welding, and assembly. The variability in energy generation and fluctuating demand necessitates an intelligent and adaptive power allocation strategy. By leveraging the Zebra Optimization Algorithm (ZOA), the central power station can dynamically distribute power based on real-time requirements, ensuring optimal utilization of renewable energy, minimizing energy losses, and enhancing overall efficiency. Implementing ZOA not only improves operational sustainability but also contributes to cost-effective and reliable energy management in industrial settings.
 # 8.Demo Video
 
+[Watch the demo video 1](https://youtu.be/6-wVCGnphaM )
 
-[Watch the video](https://youtu.be/6-wVCGnphaM )
 
+[Watch the demo video 2](https://youtu.be/fnti-PApTPE)
 
 # 9.Acknowledgement 
 
