@@ -276,9 +276,13 @@ for all units, achieving a balanced system.
 # LED Status Update
 The function updateLEDs() checks the balance:
 •	Red LED: Activated if the overall system is in deficit (Total Surplus<Total Deficit)
+
 •	White LED: Activated if the system is balanced (Total Surplus≈Total Deficit)
+
 •	Green LED: Could be used to indicate surplus (Total Surplus<Total Deficit).
+
 •	Yellow LED: Indicated Solar Power being used.
+
 After the external injection, the system is balanced, and the white LED is turned on.
 
 # 7. Conclusion
