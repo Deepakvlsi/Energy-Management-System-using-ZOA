@@ -294,6 +294,4 @@ Efficient energy management is crucial for modern industrial manufacturing plant
 
 [Watch the demo video 2](https://youtu.be/fnti-PApTPE)
 
-# 9.Acknowledgement 
 
-We would like to express our sincere gratitude to everyone who contributed to the successful completion of this project. Special thanks to Mr. Sathya Vignesh, Mr.V. Achyuth and Mr. Deepak Kumar Das for their dedication and collaborative efforts in developing the Energy Management System using the Zebra Optimization Algorithm for this hackathon. Their hard work, innovative thinking, and commitment to solving real-world industrial challenges have been instrumental in sha
